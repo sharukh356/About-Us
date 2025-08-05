@@ -19,7 +19,6 @@
     <p>If you have feedback, suggestions, or just want to say hello, feel free to reach out:</p>
     <ul>
         <li><strong>Email:</strong>sharukhalam356@gmail.com</li>
-        <li><strong>Website:</strong> [Your Website or Developer Page]</li>
     </ul>
 
     <p>Thank you for playing our game and supporting indie developers!</p>
