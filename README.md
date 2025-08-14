@@ -3,7 +3,6 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>About Us - Tic Tac Toe Game</title>
 </head>
 <body>
     <h1>About Us</h1>
